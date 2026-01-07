@@ -1,2 +1,11 @@
 h1 {color:rgb(189, 58, 189);}
 .larger-text {font-size: 55px}
+.larger-text span {font-size: 80px;
+    font-weight: bold;
+}
+
+#first {color:lightgreen}
+#last {color:mediumseagreen}
+.italic-large {font-size: 40px;
+    font-style: italic;
+}
